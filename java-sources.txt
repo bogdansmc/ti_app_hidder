@@ -1,0 +1,3 @@
+"/Users/admin/Documents/Titanium_Studio_Workspace/ModuleDevelopment/ti_app_hidder/src/ti/app/hidder/ExampleProxy.java"
+"/Users/admin/Documents/Titanium_Studio_Workspace/ModuleDevelopment/ti_app_hidder/src/ti/app/hidder/TiAppHidderModule.java"
+"/Users/admin/Documents/Titanium_Studio_Workspace/ModuleDevelopment/ti_app_hidder/build/generated/java/ti/app/hidder/TiAppHidderBootstrap.java"
